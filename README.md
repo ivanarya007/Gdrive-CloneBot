@@ -53,7 +53,6 @@ Note : there are hidden features, check at the source code of the bot to find th
 𝙈𝙚𝙩𝙝𝙤𝙙 - 1 : ᴠɪᴀ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴ𝙨
 
 https://heroku.com/deploy?template=[https://github.com/heroku/node-js-getting-started]https://github.com/ivanarya007/Gdrive-CloneBot
- 52
 
 
 
